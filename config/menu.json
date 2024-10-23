@@ -1,0 +1,28 @@
+{
+  "main": [
+    {
+      "name": "Home",
+      "url": "/"
+    }
+  ],
+  "footer": [
+    {
+      "name": "Company",
+      "menu": [
+       
+      ]
+    },
+    {
+      "name": "Product",
+      "menu": [
+        
+      ]
+    },
+    {
+      "name": "Support",
+      "menu": [
+        
+      ]
+    }
+  ]
+}
