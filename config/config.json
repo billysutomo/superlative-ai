@@ -24,13 +24,11 @@
   "params": {
     "contact_form_action": "",
     "tag_manager_id": "",
-    "footer_content": "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur.",
+    "footer_content": "",
     "copyright": "Copyright © 2024 Superlative AI, Inc. All rights reserved."
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
-    "meta_image": "",
-    "meta_description": "A SAAS template for nextjs"
+    "meta_description": "Revolutionize Education with AI"
   }
 }
