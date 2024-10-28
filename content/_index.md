@@ -1,7 +1,7 @@
 ---
 banner:
-  title: Power your Data with A.I.
-  content: Make the best knowledge with your data. Scale Data Engine powers nearly every major foundation model, and with Superlative AI Platform, leverages your enterprise data to unlock the value of AI.
+  title: Revolutionize Education with AI
+  content: Make the best knowledge with your data. Scale Data Engine powers nearly every major foundation model, and with Superlative AI Platform, leverages your data to unlock the value of AI.
   image: /images/banner-art.png
   button:
     label: "Contact Us"
